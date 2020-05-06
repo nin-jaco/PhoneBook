@@ -1,0 +1,24 @@
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\x64\Debug\CIB.PhoneBook.DAL.dll.config
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\x64\Debug\CIB.PhoneBook.DAL.dll
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\x64\Debug\CIB.PhoneBook.DAL.pdb
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\x64\Debug\EntityFramework.dll
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\x64\Debug\EntityFramework.xml
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\obj\x64\Debug\CIB.PhoneBook.DAL.csprojAssemblyReference.cache
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\obj\x64\Debug\CIB.PhoneBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\obj\x64\Debug\CIB.PhoneBook.DAL.csproj.CopyComplete
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\obj\x64\Debug\CIB.PhoneBook.DAL.dll
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\obj\x64\Debug\CIB.PhoneBook.DAL.pdb
+C:\Source\CIB.Phonebook\CIB.PhoneBook.DAL\bin\x64\Debug\CIB.PhoneBook.DAL.dll.config
+C:\Source\CIB.Phonebook\CIB.PhoneBook.DAL\bin\x64\Debug\CIB.PhoneBook.DAL.dll
+C:\Source\CIB.Phonebook\CIB.PhoneBook.DAL\bin\x64\Debug\CIB.PhoneBook.DAL.pdb
+C:\Source\CIB.Phonebook\CIB.PhoneBook.DAL\bin\x64\Debug\EntityFramework.dll
+C:\Source\CIB.Phonebook\CIB.PhoneBook.DAL\bin\x64\Debug\EntityFramework.SqlServer.dll
+C:\Source\CIB.Phonebook\CIB.PhoneBook.DAL\bin\x64\Debug\EntityFramework.xml
+C:\Source\CIB.Phonebook\CIB.PhoneBook.DAL\bin\x64\Debug\EntityFramework.SqlServer.xml
+C:\Source\CIB.Phonebook\CIB.PhoneBook.DAL\obj\x64\Debug\CIB.PhoneBook.DAL.csprojAssemblyReference.cache
+C:\Source\CIB.Phonebook\CIB.PhoneBook.DAL\obj\x64\Debug\CIB.PhoneBook.DAL.csproj.CoreCompileInputs.cache
+C:\Source\CIB.Phonebook\CIB.PhoneBook.DAL\obj\x64\Debug\CIB.PhoneBook.DAL.csproj.CopyComplete
+C:\Source\CIB.Phonebook\CIB.PhoneBook.DAL\obj\x64\Debug\CIB.PhoneBook.DAL.dll
+C:\Source\CIB.Phonebook\CIB.PhoneBook.DAL\obj\x64\Debug\CIB.PhoneBook.DAL.pdb

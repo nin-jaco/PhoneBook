@@ -1,0 +1,120 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIB.PhoneBook.BL", "..\..\CIB.PhoneBook.BL\CIB.PhoneBook.BL.csproj", "{68FF6BA5-CA9D-4562-91B5-EEAA8FC53402}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIB.PhoneBook.DAL", "..\..\CIB.PhoneBook.DAL\CIB.PhoneBook.DAL.csproj", "{1DF4E85F-52B9-4670-9C2B-8279A047D559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIB.PhoneBook.Shared", "..\..\CIB.PhoneBook.Shared\CIB.PhoneBook.Shared.csproj", "{BBD05D3F-BD42-46EF-86D5-9BC1212240F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIB.PhoneBook.UI.Web", "..\..\CIB.PhoneBook.UI.Web\CIB.PhoneBook.UI.Web.csproj", "{A5DE3D7B-DBB7-4EF5-B58C-B41A8BBAF5C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIB.Services.Wcf", "..\..\CIB.Services.Wcf\CIB.Services.Wcf.csproj", "{30DC846E-656D-4E55-BAB8-CF7B75FB52AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIB.PhoneBook.Services.WebApi", "..\..\CIB.PhoneBook.Services.Api\CIB.PhoneBook.Services.WebApi.csproj", "{513019A1-7D8F-43FC-8EF3-F89E8EEB5616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIB.PhoneBook.UI.Mvc", "..\..\CIB.PhoneBook.UI.Mvc\CIB.PhoneBook.UI.Mvc.csproj", "{801A08BC-0018-481C-9D75-BA71B97FAB5F}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AngularUI", ".", "{34F2DBBE-7308-4F3F-9AA1-46E4E5FB2F1C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_62402"
+		Debug.AspNetCompiler.PhysicalPath = "CIB.Phonebook.UI.Angular\AngularUI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62402\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_62402"
+		Release.AspNetCompiler.PhysicalPath = "CIB.Phonebook.UI.Angular\AngularUI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_62402\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "62402"
+		SlnRelativePath = "CIB.Phonebook.UI.Angular\AngularUI\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68FF6BA5-CA9D-4562-91B5-EEAA8FC53402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68FF6BA5-CA9D-4562-91B5-EEAA8FC53402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68FF6BA5-CA9D-4562-91B5-EEAA8FC53402}.Debug|x64.ActiveCfg = Debug|x64
+		{68FF6BA5-CA9D-4562-91B5-EEAA8FC53402}.Debug|x64.Build.0 = Debug|x64
+		{68FF6BA5-CA9D-4562-91B5-EEAA8FC53402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68FF6BA5-CA9D-4562-91B5-EEAA8FC53402}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68FF6BA5-CA9D-4562-91B5-EEAA8FC53402}.Release|x64.ActiveCfg = Release|x64
+		{68FF6BA5-CA9D-4562-91B5-EEAA8FC53402}.Release|x64.Build.0 = Release|x64
+		{1DF4E85F-52B9-4670-9C2B-8279A047D559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF4E85F-52B9-4670-9C2B-8279A047D559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF4E85F-52B9-4670-9C2B-8279A047D559}.Debug|x64.ActiveCfg = Debug|x64
+		{1DF4E85F-52B9-4670-9C2B-8279A047D559}.Debug|x64.Build.0 = Debug|x64
+		{1DF4E85F-52B9-4670-9C2B-8279A047D559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF4E85F-52B9-4670-9C2B-8279A047D559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF4E85F-52B9-4670-9C2B-8279A047D559}.Release|x64.ActiveCfg = Release|x64
+		{1DF4E85F-52B9-4670-9C2B-8279A047D559}.Release|x64.Build.0 = Release|x64
+		{BBD05D3F-BD42-46EF-86D5-9BC1212240F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBD05D3F-BD42-46EF-86D5-9BC1212240F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBD05D3F-BD42-46EF-86D5-9BC1212240F2}.Debug|x64.ActiveCfg = Debug|x64
+		{BBD05D3F-BD42-46EF-86D5-9BC1212240F2}.Debug|x64.Build.0 = Debug|x64
+		{BBD05D3F-BD42-46EF-86D5-9BC1212240F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBD05D3F-BD42-46EF-86D5-9BC1212240F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBD05D3F-BD42-46EF-86D5-9BC1212240F2}.Release|x64.ActiveCfg = Release|x64
+		{BBD05D3F-BD42-46EF-86D5-9BC1212240F2}.Release|x64.Build.0 = Release|x64
+		{A5DE3D7B-DBB7-4EF5-B58C-B41A8BBAF5C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DE3D7B-DBB7-4EF5-B58C-B41A8BBAF5C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DE3D7B-DBB7-4EF5-B58C-B41A8BBAF5C1}.Debug|x64.ActiveCfg = Debug|x64
+		{A5DE3D7B-DBB7-4EF5-B58C-B41A8BBAF5C1}.Debug|x64.Build.0 = Debug|x64
+		{A5DE3D7B-DBB7-4EF5-B58C-B41A8BBAF5C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DE3D7B-DBB7-4EF5-B58C-B41A8BBAF5C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DE3D7B-DBB7-4EF5-B58C-B41A8BBAF5C1}.Release|x64.ActiveCfg = Release|x64
+		{A5DE3D7B-DBB7-4EF5-B58C-B41A8BBAF5C1}.Release|x64.Build.0 = Release|x64
+		{30DC846E-656D-4E55-BAB8-CF7B75FB52AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30DC846E-656D-4E55-BAB8-CF7B75FB52AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30DC846E-656D-4E55-BAB8-CF7B75FB52AC}.Debug|x64.ActiveCfg = Debug|x64
+		{30DC846E-656D-4E55-BAB8-CF7B75FB52AC}.Debug|x64.Build.0 = Debug|x64
+		{30DC846E-656D-4E55-BAB8-CF7B75FB52AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30DC846E-656D-4E55-BAB8-CF7B75FB52AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30DC846E-656D-4E55-BAB8-CF7B75FB52AC}.Release|x64.ActiveCfg = Release|x64
+		{30DC846E-656D-4E55-BAB8-CF7B75FB52AC}.Release|x64.Build.0 = Release|x64
+		{513019A1-7D8F-43FC-8EF3-F89E8EEB5616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513019A1-7D8F-43FC-8EF3-F89E8EEB5616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513019A1-7D8F-43FC-8EF3-F89E8EEB5616}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{513019A1-7D8F-43FC-8EF3-F89E8EEB5616}.Debug|x64.Build.0 = Debug|Any CPU
+		{513019A1-7D8F-43FC-8EF3-F89E8EEB5616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513019A1-7D8F-43FC-8EF3-F89E8EEB5616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513019A1-7D8F-43FC-8EF3-F89E8EEB5616}.Release|x64.ActiveCfg = Release|Any CPU
+		{513019A1-7D8F-43FC-8EF3-F89E8EEB5616}.Release|x64.Build.0 = Release|Any CPU
+		{801A08BC-0018-481C-9D75-BA71B97FAB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801A08BC-0018-481C-9D75-BA71B97FAB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801A08BC-0018-481C-9D75-BA71B97FAB5F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{801A08BC-0018-481C-9D75-BA71B97FAB5F}.Debug|x64.Build.0 = Debug|Any CPU
+		{801A08BC-0018-481C-9D75-BA71B97FAB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801A08BC-0018-481C-9D75-BA71B97FAB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801A08BC-0018-481C-9D75-BA71B97FAB5F}.Release|x64.ActiveCfg = Release|Any CPU
+		{801A08BC-0018-481C-9D75-BA71B97FAB5F}.Release|x64.Build.0 = Release|Any CPU
+		{34F2DBBE-7308-4F3F-9AA1-46E4E5FB2F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F2DBBE-7308-4F3F-9AA1-46E4E5FB2F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F2DBBE-7308-4F3F-9AA1-46E4E5FB2F1C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{34F2DBBE-7308-4F3F-9AA1-46E4E5FB2F1C}.Debug|x64.Build.0 = Debug|Any CPU
+		{34F2DBBE-7308-4F3F-9AA1-46E4E5FB2F1C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F2DBBE-7308-4F3F-9AA1-46E4E5FB2F1C}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{34F2DBBE-7308-4F3F-9AA1-46E4E5FB2F1C}.Release|x64.ActiveCfg = Debug|Any CPU
+		{34F2DBBE-7308-4F3F-9AA1-46E4E5FB2F1C}.Release|x64.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B133B43-8085-4F0B-A6DA-BC9BA9CF2C36}
+	EndGlobalSection
+EndGlobal

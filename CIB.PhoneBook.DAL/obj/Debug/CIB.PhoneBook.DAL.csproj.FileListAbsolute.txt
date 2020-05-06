@@ -1,0 +1,12 @@
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\Debug\CIB.PhoneBook.DAL.dll.config
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\Debug\CIB.PhoneBook.DAL.dll
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\Debug\CIB.PhoneBook.DAL.pdb
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\obj\Debug\CIB.PhoneBook.DAL.csprojAssemblyReference.cache
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\obj\Debug\CIB.PhoneBook.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\obj\Debug\CIB.PhoneBook.DAL.csproj.CopyComplete
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\obj\Debug\CIB.PhoneBook.DAL.dll
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.DAL\obj\Debug\CIB.PhoneBook.DAL.pdb

@@ -1,0 +1,108 @@
+<div class="container">
+  <mat-card>
+    <mat-toolbar color="accent">
+      <div align="center" style="color:white;text-align: right;">
+        My Phone Book 
+      </div>
+
+    </mat-toolbar>
+    <br><br>
+    <mat-card-content>
+      <form [formGroup]="contactForm" (ngSubmit)="onFormSubmit(contactForm.value)">
+        <table>
+          <tr>
+            <td class="tbl1">
+              <mat-form-field class="demo-full-width">
+                <input formControlName="FirstName" matTooltip="Enter First Name" matInput placeholder="First Name">
+              </mat-form-field>
+              <mat-error>
+                <span *ngIf="!contactForm.get('FirstName').value && contactForm.get('FirstName').touched"></span>
+              </mat-error>
+            </td>
+            <td class="tbl1">
+              <mat-form-field class="demo-full-width">
+                <input formControlName="LastName" matTooltip="Enter Last Name" matInput placeholder="Last Name">
+              </mat-form-field>
+              <mat-error>
+                <span *ngIf="!contactForm.get('LastName').value && contactForm.get('LastName').touched"></span>
+              </mat-error>
+            </td>
+            <td class="tbl1">
+              <mat-form-field class="demo-full-width">
+                <input formControlName="Mobile" matTooltip="Enter Mobile" matInput placeholder="Mobile" type="tel" maxlength="10">
+              </mat-form-field>
+              <mat-error>
+                <span *ngIf="!contactForm.get('Mobile').value && contactForm.get('Mobile').touched"></span>
+              </mat-error>
+            </td>
+          </tr>
+          <tr>
+            <td class="tbl1">
+              <mat-form-field class="demo-full-width">
+                <input formControlName="WorkTelephone" matTooltip="Enter Work Telephone" matInput placeholder="Work Telephone" type="tel" maxlength="10">
+              </mat-form-field>
+              <mat-error>
+                <span *ngIf="!contactForm.get('WorkTelephone').value && contactForm.get('WorkTelephone').touched"></span>
+              </mat-error>
+            </td>
+            <!--<td class="tbl1">
+              <mat-form-field class="demo-full-width">
+                <input matInput formControlName="DateCreated" placeholder="Date Created" readonly="readonly" type="date">
+              </mat-form-field>
+              <mat-error>
+                <span *ngIf="!contactForm.get('DateCreated').value && contactForm.get('DateCreated').touched"></span>
+              </mat-error>
+            </td>-->
+            <!--<td class="tbl1">
+              <mat-form-field class="demo-full-width">
+                <input matInput matTooltip="Date Modified" formControlName="DateModified" placeholder="Date Modified" readonly="readonly" type="date">
+              </mat-form-field>
+              <mat-error>
+                <span *ngIf="!contactForm.get('DateModified').value && contactForm.get('DateModified').touched"></span>
+              </mat-error>
+            </td>-->
+          </tr>
+          <tr>
+            <td></td>
+            <td class="content-center">
+              <button type="submit" mat-raised-button color="accent" matTooltip="Click Submit Button" [disabled]="!contactForm.valid">Submit</button>&nbsp;&nbsp;&nbsp;&nbsp;
+              <button type="reset" mat-raised-button color="accent" matTooltip="Click Reset Button" (click)="resetForm()">Reset</button>
+            </td>
+            <td>
+              <p *ngIf="dataSaved" style="color:rgb(0, 128, 0);font-size:20px;font-weight:bold" Class="success" align="left">
+                {{message}}
+              </p>
+            </td>
+          </tr>
+        </table>
+        <br><br>
+        <table class="table">
+          <tr ngclass="btn-primary">
+            <th class="tbl2">First Name</th>
+            <th class="tbl2">Last Name</th>
+            <th class="tbl2">Mobile</th>
+            <th class="tbl2">Work Telephone</th>
+            <th class="tbl2">Date Created</th>
+            <th class="tbl2">Date Modified</th>
+            <th class="tbl2">Edit</th>
+            <th class="tbl2">Delete</th>
+          </tr>
+          <tr *ngFor="let contact of allContacts | async">
+            <td class="tbl2">{{contact.FirstName}}</td>
+            <td class="tbl2">{{contact.LastName}}</td>
+            <td class="tbl2">{{contact.Mobile}}</td>
+            <td class="tbl2">{{contact.WorkTelephone}}</td>
+            <td class="tbl2">{{contact.DateCreated | date }}</td>
+            <td class="tbl2">{{contact.DateModified | date }}</td>
+            <td class="tbl2">
+              <button type="button" class="btn btn-info" matTooltip="Click Edit Button" (click)="loadContactToEdit(contact.Id)">Edit</button>
+            </td>
+            <td class="tbl2">
+              <button type="button" class="btn btn-danger" matTooltip="Click Delete Button" (click)="deleteContact(contact.Id)">Delete</button>
+            </td>
+          </tr>
+        </table>
+      </form>
+    </mat-card-content>
+  </mat-card>
+</div>

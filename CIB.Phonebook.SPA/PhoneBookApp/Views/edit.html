@@ -1,0 +1,37 @@
+﻿<div class="row" ng-controller="editController">
+    <div class="col-md-5">
+        <form ng-show="isEditable()">
+            <div class="form-group">
+                <label for="FirstName">First Name</label>
+                <input name="FirstName" id="FirstName" type="text" class="form-control" placeholder="Enter First Name" ng-model="edit.contact.FirstName">
+            </div>
+            <div class="form-group">
+                <label for="LastName">Last Name</label>
+                <input name="LastName" id="LastName" type="text" class="form-control" placeholder="Enter Last Name" ng-model="edit.contact.LastName">
+            </div>
+
+            <div class="form-group">
+                <label for="Mobile">Mobile</label>
+                <input name="Mobile" id="Mobile" type="tel" class="form-control" placeholder="Enter Mobile" ng-model="edit.contact.Mobile" maxlength="10">
+            </div>
+
+            <div class="form-group">
+                <label for="WorkTelephone">Work Telephone</label>
+                <input name="WorkTelephone" id="WorkTelephone" type="tel" class="form-control" placeholder="Enter Work Telephone" ng-model="edit.contact.WorkTelephone" maxlength="10">
+            </div>
+
+            <!--<div class="form-group">
+                <label for="DateCreated">Date Created</label>
+                <input name="DateCreated" id="DateCreated" class="form-control" type="date" readonly="readonly" ng-model="edit.contact.DateCreated">
+            </div>
+
+            <div class="form-group">
+                <label for="DateModified">Date Modified</label>
+                <input name="DateModified" id="DateModified" type="date" class="form-control" readonly="readonly" ng-model="edit.contact.DateModified">
+            </div>-->
+
+            <button class="btn btn-primary" ng-click="save()">Save</button>
+            <button class="btn btn-primary" ng-click="cancel()">Cancel</button>
+        </form>
+    </div>
+</div>

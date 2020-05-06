@@ -1,0 +1,25 @@
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.Shared\bin\x64\Debug\CIB.PhoneBook.Shared.dll
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.Shared\bin\x64\Debug\CIB.PhoneBook.Shared.pdb
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.Shared\bin\x64\Debug\CIB.PhoneBook.DAL.dll
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.Shared\bin\x64\Debug\EntityFramework.dll
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.Shared\bin\x64\Debug\CIB.PhoneBook.DAL.pdb
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.Shared\bin\x64\Debug\CIB.PhoneBook.DAL.dll.config
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.Shared\bin\x64\Debug\EntityFramework.xml
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.Shared\obj\x64\Debug\CIB.PhoneBook.Shared.csprojAssemblyReference.cache
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.Shared\obj\x64\Debug\CIB.PhoneBook.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.Shared\obj\x64\Debug\CIB.PhoneBook.Shared.csproj.CopyComplete
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.Shared\obj\x64\Debug\CIB.PhoneBook.Shared.dll
+C:\Users\Jaco\Documents\Visual Studio 2017\CIB.PhoneBook\CIB.PhoneBook.Shared\obj\x64\Debug\CIB.PhoneBook.Shared.pdb
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\bin\x64\Debug\CIB.PhoneBook.Shared.dll
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\bin\x64\Debug\CIB.PhoneBook.Shared.pdb
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\bin\x64\Debug\CIB.PhoneBook.DAL.dll
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\bin\x64\Debug\Elmah.dll
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\bin\x64\Debug\EntityFramework.dll
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\bin\x64\Debug\CIB.PhoneBook.DAL.pdb
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\bin\x64\Debug\CIB.PhoneBook.DAL.dll.config
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\bin\x64\Debug\EntityFramework.xml
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\obj\x64\Debug\CIB.PhoneBook.Shared.csprojAssemblyReference.cache
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\obj\x64\Debug\CIB.PhoneBook.Shared.csproj.CoreCompileInputs.cache
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\obj\x64\Debug\CIB.PhoneBook.Shared.csproj.CopyComplete
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\obj\x64\Debug\CIB.PhoneBook.Shared.dll
+C:\Source\CIB.Phonebook\CIB.PhoneBook.Shared\obj\x64\Debug\CIB.PhoneBook.Shared.pdb
